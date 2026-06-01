@@ -152,9 +152,9 @@ plt.show()
 
 > Replace placeholders below with generated project figures.
 
-- ![Pass network example](outputs/figures/pass-network-example.png)
-- ![Betweenness centrality ranking](outputs/figures/betweenness-centrality-example.png)
-- ![Passing communities (modularity)](outputs/figures/modularity-communities-example.png)
+![Pass network example](outputs/figures/pass-network-example.png)
+![Betweenness centrality ranking](outputs/figures/betweenness-centrality-example.png)
+![Passing communities (modularity)](outputs/figures/modularity-communities-example.png)
 
 ## References
 
